@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+Flask==2.1.1
+nltk==3.7
+pandas==1.4.3
+pandas_stubs==1.2.0.38
+requests==2.26.0
