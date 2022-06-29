@@ -1,5 +1,5 @@
 
-# Plagiarism Checker
+# Plagiarism Detector
 
 A web application to check if a document's contents are plagiarised or not.
 
